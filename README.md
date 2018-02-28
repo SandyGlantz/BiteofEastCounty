@@ -1,2 +1,2 @@
 # BiteofEastCounty
-Website for non-profit event
+Website for a local non-profit event
