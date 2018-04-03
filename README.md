@@ -15,10 +15,15 @@ I had nothing to do with that site.
 To Do list:
 
 :white_check_mark: Learn WP Basics
+
 :white_check_mark: Pick Theme (possibly the hardest part!)
+
 :white_check_mark: Set up separate dev environment for working on site
+
 :white_check_mark: Check basics for how to transfer site - adjust my set-up accordingly
+
 :white_check_mark: Find & upload decent photos from event; + get some online freebies.
+
 :white_check_mark: Do base site for client approval of direction
 
 :black_square_button: Grab screens of current version (not mine)
@@ -37,6 +42,7 @@ To Do list:
 :black_square_button: Research GA set-up (and transfer from current site)
 
 :black_square_button: Make event Chairperson an Admin for the site in addition to myself
+
 :black_square_button: Get guidance on who gets what access - and when (AFTER I've rec'd approval)
 
 :black_square_button: Clean up sponsor logos - and make that section MUCH better/cleaner
