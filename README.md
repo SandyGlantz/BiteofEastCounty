@@ -8,11 +8,11 @@ http://htmlpreview.github.com/?https://github.com/SandyGlantz/BiteofEastCounty/b
 
 
 The second version was what they actually wanted ;-)
-Currently under development as a WordPress site (so they will eventually be able to do their own maintenance): 
-http://SandySandbox.com  
+Currently under development as a WordPress site (so they will eventually be able to do their own maintenance):   
+http://SandySandbox.com    
 (will include SSL certificate when it moves from development to Live).
 
-The current/old version is at:
+The current/old version is at:  
 http://www.BiteofEastCounty.com
 
 ---
