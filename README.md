@@ -1,15 +1,17 @@
 # BiteofEastCounty
-Website for a local non-profit event
+Website for a local non-profit event.
+
+I've done some marketing for this local event which benefits the local Food Kitchen & Pantry (Zarephath House).  Their web developer moved out of town, so it seemed like a good time to update the look.
 
 The first version was what the client said they wanted (the Moderna theme in this repo was the demo).
 
 The second version was what they actually wanted ;-)
-  currently under development as a WordPress site (so they will eventually be able to do their own maintenance):
+  Currently under development as a WordPress site (so they will eventually be able to do their own maintenance):
   http://SandySandbox.com
   (will include SSL certificate when it moves from development to Live).
 
-The current version is at http://www.BiteofEastCounty.com
-I had nothing to do with that site.
+The current/old version is at http://www.BiteofEastCounty.com
+
 
 
 To Do list:
