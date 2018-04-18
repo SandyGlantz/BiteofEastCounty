@@ -1,7 +1,7 @@
 # BiteofEastCounty
 Website for a local non-profit event.
 
-I've done some marketing for this local event which benefits the local Food Kitchen & Pantry (Zarephath House).  Their web developer moved out of town, so it seemed like a good time to update the look.
+I've done some marketing for this local event, which benefits the local Food Kitchen & Pantry (Zarephath House).  Their web developer moved out of town, so it seemed like a good time to update the look.
 
 The first version was what the client said they wanted (the Moderna theme in this repo was the demo):
 http://htmlpreview.github.com/?https://github.com/SandyGlantz/BiteofEastCounty/blob/master/Bite_Moderna%20copy/index.html
@@ -31,6 +31,8 @@ To Do list:
 
 :white_check_mark: Do base site for client approval of direction
 
+:black_square_button: Needs MVP for launch
+
 :black_square_button: Grab screens of current version (not mine)
 
 :black_square_button: Grab screens of site as delivered - before they get access to "update" it.
@@ -40,15 +42,15 @@ To Do list:
 
 :black_square_button: Do About Us page with info from Zarephath House (charity info)
 
-:black_square_button: Pick a font - or two - for the site.  Clean up the 200 different font madness.
+:white_check_mark: Pick a font - or two - for the site.  Clean up the 200 different font madness.
 
-:black_square_button: Get some copy from the client to replace my "something goes here about a band" types of copy.
+:white_check_mark: Get some copy from the client to replace my "something goes here about a band" types of copy.
 
 :black_square_button: Research GA set-up (and transfer from current site)
 
-:black_square_button: Make event Chairperson an Admin for the site in addition to myself
+:white_check_mark: Make event Chairperson an Admin for the site in addition to myself
 
-:black_square_button: Get guidance on who gets what access - and when (AFTER I've rec'd approval)
+:white_check_mark: Get guidance on who gets what access - and when (AFTER I've rec'd approval)
 
 :black_square_button: Clean up sponsor logos - and make that section MUCH better/cleaner
 
