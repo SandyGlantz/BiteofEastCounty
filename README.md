@@ -31,11 +31,11 @@ To Do list:
 
 :white_check_mark: Do base site for client approval of direction
 
-:black_square_button: Needs MVP for launch
+:white_check_mark: Needs MVP for launch
 
 :black_square_button: Grab screens of current version (not mine)
 
-:black_square_button: Grab screens of site as delivered - before they get access to "update" it.
+:white_check_mark: Grab screens of site as delivered - before they get access to "update" it.
   (tried going through the WP files and to show what I did versus what WP does is not reasonable to show in GH)
   
 :black_square_button: Do vendor page with sortable/tagged function: Food, Drink, Crafts, Services
