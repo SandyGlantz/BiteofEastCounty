@@ -58,6 +58,7 @@ To Do list:
 :white_check_mark: Research online kanban for free or cheap - easy for non-techs - 6 person team
 
 :white_check_mark: Consider Trello or other agile/kanban online source for tracking all the changes once live
+https://trello.com/b/TgEmT4dR/website
 
 :white_check_mark: Reduce image sizes for faster load time (Octify was perfect!!)
 
