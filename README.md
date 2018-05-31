@@ -9,11 +9,8 @@ http://htmlpreview.github.com/?https://github.com/SandyGlantz/BiteofEastCounty/b
 
 The second version was what they actually wanted ;-)
 Currently under development as a WordPress site (so they will eventually be able to do their own maintenance):   
-http://SandySandbox.com    
-(will include SSL certificate when it moves from development to Live).
+http://www.BiteofEastCounty.com  
 
-The current/old version is at:  
-http://www.BiteofEastCounty.com
 
 ---
 
@@ -33,7 +30,7 @@ To Do list:
 
 :white_check_mark: Needs MVP for launch
 
-:black_square_button: Grab screens of current version (not mine)
+:white_check_mark: Grab screens of old version (not mine)
 
 :white_check_mark: Grab screens of site as delivered - before they get access to "update" it.
   (tried going through the WP files and to show what I did versus what WP does is not reasonable to show in GH)
@@ -46,7 +43,7 @@ To Do list:
 
 :white_check_mark: Get some copy from the client to replace my "something goes here about a band" types of copy.
 
-:black_square_button: Research GA set-up (and transfer from current site)
+:black_square_button: Research GA set-up (transfer from old site owner?)
 
 :white_check_mark: Make event Chairperson an Admin for the site in addition to myself
 
@@ -60,10 +57,11 @@ To Do list:
 
 :white_check_mark: Research online kanban for free or cheap - easy for non-techs - 6 person team
 
-:black_square_button: Consider Trello or other agile/kanban online source for tracking all the changes once live
+:white_check_mark: Consider Trello or other agile/kanban online source for tracking all the changes once live
 
 :white_check_mark: Reduce image sizes for faster load time (Octify was perfect!!)
 
+:black_square_button: Create Raffle Page
 
 
 
