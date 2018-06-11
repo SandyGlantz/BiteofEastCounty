@@ -64,6 +64,8 @@ https://trello.com/b/TgEmT4dR/website
 
 :black_square_button: Create Raffle Page
 
+:black_square_button: Get Raffle logo requirements
+
 
 
 
