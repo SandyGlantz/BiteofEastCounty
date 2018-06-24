@@ -66,6 +66,6 @@ https://trello.com/b/TgEmT4dR/website
 
 :black_square_button: Get Raffle logo requirements
 
-
+:black_square_button: Fix Google/Search permissions from SandySandbox that ported over :-(
 
 
