@@ -62,7 +62,7 @@ https://trello.com/b/TgEmT4dR/website
 
 :white_check_mark: Reduce image sizes for faster load time (Octify was perfect!!)
 
-:white_check_mark: Rebuild all images after WP update lost them all.
+:white_check_mark: Rebuild all images after WP update lost them all. #Valuablelesson
 
 :black_square_button: Create Raffle Page
 
