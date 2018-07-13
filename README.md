@@ -68,6 +68,6 @@ https://trello.com/b/TgEmT4dR/website
 
 :black_square_button: Get Raffle logo requirements
 
-:black_square_button: Fix Google/Search permissions from SandySandbox that ported over :-(
+:white_check_mark:  Fix Google/Search permissions from SandySandbox that ported over :-(
 
-:black_square_button: Remove Bite info from SandySandybox ... move to SiteGround??
+:white_check_mark:  Remove Bite info from SandySandybox ... move to SiteGround??
