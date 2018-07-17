@@ -71,3 +71,5 @@ https://trello.com/b/TgEmT4dR/website
 :white_check_mark:  Fix Google/Search permissions from SandySandbox that ported over :-(
 
 :white_check_mark:  Remove Bite info from SandySandybox ... move to SiteGround??
+
+:white_check_mark: Who needs a website's images to show on Chrome?  LOL.  FIXED - but lost some cool functionality :-(
