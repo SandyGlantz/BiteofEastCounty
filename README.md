@@ -37,7 +37,7 @@ To Do list:
   
 :black_square_button: Do vendor page with sortable/tagged function: Food, Drink, Crafts, Services
 
-:black_square_button: Do About Us page with info from Zarephath House (charity info)
+:white_check_mark: Do About Us page with info from Zarephath House (charity info)
 
 :white_check_mark: Pick a font - or two - for the site.  Clean up the 200 different font madness.
 
@@ -49,9 +49,9 @@ To Do list:
 
 :white_check_mark: Get guidance on who gets what access - and when (AFTER I've rec'd approval)
 
-:black_square_button: Clean up sponsor logos - and make that section MUCH better/cleaner
+:white_check_mark: Clean up sponsor logos - and make that section MUCH better/cleaner
 
-:black_square_button: Get decision on who/what should be listed in "Contact Us"
+:white_check_mark: Get decision on who/what should be listed in "Contact Us"
 
 :black_square_button: What have I forgotton and/or overlooked?????
 
@@ -64,9 +64,9 @@ https://trello.com/b/TgEmT4dR/website
 
 :white_check_mark: Rebuild all images after WP update lost them all. #Valuablelesson
 
-:black_square_button: Create Raffle Page
+:white_check_mark: Create Raffle Page
 
-:black_square_button: Get Raffle logo requirements
+:white_check_mark: Get Raffle logo requirements
 
 :white_check_mark:  Fix Google/Search permissions from SandySandbox that ported over :-(
 
@@ -74,4 +74,6 @@ https://trello.com/b/TgEmT4dR/website
 
 :white_check_mark: Who needs a website's images to show on Chrome?  LOL.  FIXED - but lost some cool functionality :-(
 
-:black_square_button: Why does the formatting on the vendor page keep reverting ?????????
+:white_check_mark: Why does the formatting on the vendor page keep reverting ?????????
+
+:white_check_mark: Keep fingers plugging all the holes in the dike ;-)
