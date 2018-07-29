@@ -44,6 +44,8 @@ To Do list:
 :white_check_mark: Get some copy from the client to replace my "something goes here about a band" types of copy.
 
 :black_square_button: Research GA set-up (transfer from old site owner?)
+--> opted to not do this due to GDPR compliancy needs (without GA, we didn't need to have anything on the site). 
+On the list for next year.
 
 :white_check_mark: Make event Chairperson an Admin for the site in addition to myself
 
@@ -52,8 +54,6 @@ To Do list:
 :white_check_mark: Clean up sponsor logos - and make that section MUCH better/cleaner
 
 :white_check_mark: Get decision on who/what should be listed in "Contact Us"
-
-:black_square_button: What have I forgotton and/or overlooked?????
 
 :white_check_mark: Research online kanban for free or cheap - easy for non-techs - 6 person team
 
@@ -77,3 +77,5 @@ https://trello.com/b/TgEmT4dR/website
 :white_check_mark: Why does the formatting on the vendor page keep reverting ?????????
 
 :white_check_mark: Keep fingers plugging all the holes in the dike ;-)
+
+:black_square_button: What have I forgotton and/or overlooked?????
