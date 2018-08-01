@@ -79,3 +79,7 @@ https://trello.com/b/TgEmT4dR/website
 :white_check_mark: Keep fingers plugging all the holes in the dike ;-)
 
 :black_square_button: What have I forgotton and/or overlooked?????
+
+:black_square_button: What should I put in place now for next year?
+
+:white_check_mark: Update WP version
