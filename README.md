@@ -4,6 +4,7 @@ Website for a local non-profit event.
 I've done some marketing for this local event, which benefits the local Food Kitchen & Pantry (Zarephath House).  Their web developer moved out of town, so it seemed like a good time to update the look.
 
 The first version was what the client said they wanted (the Moderna theme in this repo was the demo):
+(some of the features are lost when using GitHub preview mode - but this is a good general representation)
 http://htmlpreview.github.com/?https://github.com/SandyGlantz/BiteofEastCounty/blob/master/Bite_Moderna%20copy/index.html
 
 
